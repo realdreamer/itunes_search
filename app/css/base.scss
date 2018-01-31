@@ -1,0 +1,10 @@
+@import 'variables';
+@import 'vendor/normalize.css';
+@import 'vendor/main.css';
+
+body {
+  background-color: $body-bg;
+  color: $base-color;
+  font-family: $font-family;
+  padding: $body-padding;
+}
